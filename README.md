@@ -1,4 +1,4 @@
-# VPC-Virtual-Private-Cloud
+# VPC-Virtual-Private-Cloud.
 Virtual-private-cloud
 A virtual private cloud (VPC) is **a virtual network dedicated to your AWS account**. It is logically isolated from other virtual networks in the AWS Cloud. You can specify an IP address range for the VPC, add subnets, add gateways, and associate security groups.
 
