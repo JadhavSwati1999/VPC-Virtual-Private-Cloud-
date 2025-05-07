@@ -2,7 +2,7 @@
 Virtual-private-cloud
 A virtual private cloud (VPC) is **a virtual network dedicated to your AWS account**. It is logically isolated from other virtual networks in the AWS Cloud. You can specify an IP address range for the VPC, add subnets, add gateways, and associate security groups.
 
-## Key Components of VPC
+## Key Components of VPC.
 
 **IGW(Internet Gate Way):**  *An Internet Gateway (IGW) is an AWS component that provides a path for network traffic to travel between a Virtual Private Cloud (VPC) and the public internet.*
 
